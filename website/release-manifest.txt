@@ -1,0 +1,12 @@
+# Public Cobalt Signal release files. One repository-relative site path per line.
+assets/Daytwan_Shirley_Resume.pdf
+assets/NimbusSansNarrow-Bold.otf
+assets/NimbusSansNarrow-Regular.otf
+assets/licenses/COPYING
+assets/licenses/LICENSE
+assets/mark.svg
+assets/social-preview.png
+index.html
+no-script.css
+script.js
+styles.css
