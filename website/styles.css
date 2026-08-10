@@ -462,7 +462,7 @@ a:focus-visible,
 }
 
 .contact-intro h2 {
-  color: var(--paper);
+  color: var(--acid-readable);
   font-size: clamp(4rem, 6.45vw, 5.8125rem);
   font-weight: 900;
   letter-spacing: -0.065em;
