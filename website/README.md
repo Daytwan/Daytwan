@@ -32,7 +32,7 @@ composition so the active panel keeps the full available height.
 
 - Palette is translated from
   `data/living-poster-color-studies/living-poster-color-study-01.png`.
-- Cobalt `#052a9e` is the field, warm bone `#f3efe2` is the primary type, and
+- Warm bone `#f3efe2` is the field, cobalt `#052a9e` is the primary type, and
   hot coral `#ff5d62` carries display accents and rules. Readable coral
   `#ff7d80` gives small accent text and compact controls at least 4.5:1
   contrast against cobalt.
@@ -57,7 +57,7 @@ composition so the active panel keeps the full available height.
   confident 24–40px responsive scale with a wide editorial measure. Location
   and Focus metadata were removed so the statement stands alone.
 - Contact keeps the exact `Reach out Today!` wording in warm bone. At narrow
-  mobile sizes, semantic Phone and Email rows preserve stronger 14–16px white
+  mobile sizes, semantic Phone and Email rows preserve stronger 14–16px blue
   labels, readable-coral values, 44px targets, and clear the persistent utility
   rail.
 - Initial masthead and About-statement reveals are short and non-looping. Mode

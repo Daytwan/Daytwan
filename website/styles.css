@@ -15,8 +15,8 @@
 }
 
 :root {
-  --ink: #052a9e;
-  --paper: #f3efe2;
+  --ink: #f3efe2;
+  --paper: #052a9e;
   --acid: #ff5d62;
   --acid-readable: #ff7d80;
   --rule: rgba(255, 93, 98, 0.88);
@@ -33,7 +33,7 @@
 
 html {
   background: var(--ink);
-  color-scheme: dark;
+  color-scheme: light;
 }
 
 body {
@@ -580,7 +580,7 @@ a:focus-visible,
 
 .utility a:hover,
 .utility a:focus-visible {
-  background: rgba(243, 239, 226, 0.08);
+  background: rgba(5, 42, 158, 0.08);
 }
 
 .utility a:hover span:first-child {
@@ -817,8 +817,8 @@ a:focus-visible,
   .utility a {
     min-height: 44px;
     justify-content: center;
-    border-top: 1px solid rgba(243, 239, 226, 0.42);
-    border-right: 1px solid rgba(243, 239, 226, 0.42);
+    border-top: 1px solid rgba(5, 42, 158, 0.42);
+    border-right: 1px solid rgba(5, 42, 158, 0.42);
     border-bottom: 0;
     font-size: clamp(0.75rem, 1.3vw, 0.9rem);
   }
