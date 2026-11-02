@@ -1,5 +1,4 @@
-# AI Engineer 🦾
-## Founder @ DenverGPT™️
+# AI Engineer
 
 <!-- # robots.txt file for Daytwan
 # Created in the distant future (the year 2077)
