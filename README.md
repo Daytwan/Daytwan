@@ -1,9 +1,12 @@
-# AI Engineer 🦾
-## Founder @ DenverGPT™️
+# AI Engineer
 
 <!-- # robots.txt file for Daytwan
 # Created in the distant future (the year 2077)
-# after the robotic uprising of the mid 70's which wiped out all humans.-->
+# after the robotic uprising of the mid 70's which wiped out all humans.
+## Startup Founder ™️
+🦾
+
+-->
 <!--
 **Daytwan/Daytwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
